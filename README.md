@@ -22,7 +22,7 @@ Set this to `true` to update Composer to the latest release every time the playb
 
 ## Dependencies
 
-  - geerlingguy.php (Installs PHP).
+  - paulthed.php (Installs PHP).
 
 ## Example Playbook
 
